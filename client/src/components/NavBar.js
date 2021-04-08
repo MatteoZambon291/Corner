@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export class NavBar extends Component {
+class NavBar extends Component {
   render() {
     return (
       <header className="text-gray-600 bg-gray-100 shadow-md body-font">

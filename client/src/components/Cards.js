@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export class Cards extends Component {
+class Cards extends Component {
   render() {
     return (
       <section className="text-gray-400 bg body-font">
